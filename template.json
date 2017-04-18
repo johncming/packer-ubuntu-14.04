@@ -9,10 +9,6 @@
                         "scripts/base.sh",
                         "scripts/vagrant.sh",
                         "scripts/vbox_addition.sh",
-                        "scripts/docker.sh",
-                        "scripts/emacs.sh",
-                        "scripts/sysdig.sh",
-                        "scripts/rexray.sh",
                         "scripts/cleanup.sh",
                         "scripts/zerodisk.sh"
                     ]
